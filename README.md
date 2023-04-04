@@ -10,5 +10,5 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙷𝚎/𝙷𝚒𝚖 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝚏𝚞𝚗 𝚏𝚊𝚌𝚝 𝚒𝚜 𝚝𝚑𝚊𝚝 𝚝𝚑𝚎𝚜𝚎 𝚒𝚜 𝙽𝚘 𝚏𝚞𝚗 𝚏𝚊𝚌𝚝.
 - 
-![Snake animation](https://github.com/{{siddhant660}}/{{siddhant660}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+
 -->
