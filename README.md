@@ -3,7 +3,7 @@
 
 # ---------------------------------------
 
-![waving_hand](https://user-images.githubusercontent.com/121472284/229670257-6a6e2ca4-3a96-42aa-9c0a-1a7813eccce1.gif) <h1>𝙷𝙸 𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴</h1>                             
+![waving_hand](https://user-images.githubusercontent.com/121472284/229670257-6a6e2ca4-3a96-42aa-9c0a-1a7813eccce1.gif)                           
 
 - <h1 align="center">Hi 👋, I'm Siddhant Sahu</h1>
 <h3 align="center">A Passionate Software Engg. & Civil Engineer from India</h3>
