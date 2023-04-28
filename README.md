@@ -1,8 +1,5 @@
 ![header](https://user-images.githubusercontent.com/115187902/230611017-0eea583f-9e8f-41f3-af7c-1ad2de94dee2.png)
-
-# ---------------------------------------
-
-![waving_hand](https://user-images.githubusercontent.com/121472284/229670257-6a6e2ca4-3a96-42aa-9c0a-1a7813eccce1.gif)                           
+                  
 
 - <h1 align="center">Hi 👋, I'm Siddhant Sahu</h1>
 <h3 align="center">A Passionate Software Engg. & Civil Engineer from India</h3>
