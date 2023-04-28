@@ -2,7 +2,7 @@
 
 
 
-- <h1 align="center">Hi 👋, I'm Siddhant Sahu</h1>
+<h1 align="center">Hi 👋, I'm Siddhant Sahu</h1>
 <h3 align="center">A Passionate Software Engg. & Civil Engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhant660](https://github.com/siddhant660)
