@@ -23,6 +23,8 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 
 - 📫 How to reach me **siddhantsahu9926@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant660&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant660" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant660" height="30" width="40" /></a>
