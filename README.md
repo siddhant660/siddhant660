@@ -46,4 +46,4 @@ I'm a beginner software developer. I'm excited to be learning about programming 
     
 
     
-  
+  ![snake gif](https://github.com/siddhant660/siddhant660/blob/output/github-contribution-grid-snake.gif)
