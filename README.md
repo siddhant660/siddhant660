@@ -1,9 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-
-<img align="right" src="https://i.pinimg.com/originals/be/3c/3e/be3c3ecd2643d15b798cc1d2ec1d3b26.jpg" alt="Alt Text" height="450" width="200">
-
-<h1 align="center" >👋 Hi , I'm Siddhant Sahu</h1> 
-
+ 
+ # 👋 Hi , I'm Siddhant Sahu<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2> <h1 align="center" > </h1>  
 <p>  
 I'm a beginner software developer. I'm excited to be learning about programming and am eager to improve my skills.
 
@@ -38,6 +35,8 @@ I'm a beginner software developer. I'm excited to be learning about programming 
   <img src="https://github-readme-stats.vercel.app/api?username=siddhant660&show_icons=true&locale=en&count_private=true&bg_color=663399&title_color=fff&text_color=fff" alt="siddhant660" width="400" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant660&show_icons=true&locale=en&layout=compact&bg_color=663399&title_color=fff&text_color=fff" alt="siddhant660" width="400" />
+
+<h3 align="left">snake contribution graph </h3>
 
 ![snake animation](https://github.com/siddhant660/siddhant660/blob/output/github-contribution-grid-snake.svg)
 
