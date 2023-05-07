@@ -22,7 +22,10 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant660&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant660" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2> <h1 align="center" ></h3>
+
+<img align="right" src="https://user-images.githubusercontent.com/121472284/236687687-7da00c47-3b8f-4599-9fa5-d561e524b93c.png">
+
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant660" height="30" width="40" /></a>
 </p>
