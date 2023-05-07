@@ -2,6 +2,7 @@
  
  # 👋 Hi , I'm Siddhant Sahu<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2> 
  
+
 <p>  
 I'm a beginner software developer. I'm excited to be learning about programming and am eager to improve my skills.
 
@@ -12,9 +13,15 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 -👨‍💻👩‍💻  I'm excited to be part of the developer community and hope to collaborate with others and contribute to open-source projects in the future.
 
 -🎨When I'm not coding, I enjoy ["reading books," "playing video games," "listening to music," etc.]. 
+ 
+  <a href="https://github.com/siddhant660/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddhant660&theme=dracula&area=true&hide_border=true#gh-white-mode-only" width="100%">
+</a>
   
--😊Thanks for visiting my profile and I look forward to connecting with you!
-</p>
+ 
+
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhant660](https://github.com/siddhant660)
 
@@ -44,3 +51,5 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 
 ![snake animation](https://github.com/siddhant660/siddhant660/blob/output/github-contribution-grid-snake.svg)
 
+-😊Thanks for visiting my profile and I look forward to connecting with you!
+</p>
