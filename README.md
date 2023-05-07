@@ -34,18 +34,10 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant660&" alt="siddhant660" width=450/>
-  
- 
-   
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant660&show_icons=true&locale=en" alt="siddhant660" width=450/>
-  
 
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhant660&show_icons=true&locale=en&count_private=true&bg_color=663399&title_color=fff&text_color=fff" alt="siddhant660" width="400" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant660&show_icons=true&locale=en&layout=compact&bg_color=663399&title_color=fff&text_color=fff" alt="siddhant660" width="400" />
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant660&show_icons=true&locale=en&layout=compact" alt="siddhant660" width=430/>
-    
+![snake animation](https://github.com/siddhant660/siddhant660/blob/output/github-contribution-grid-snake.svg)
 
-    
-  ![snake gif](https://github.com/siddhant660/siddhant660/blob/output/github-contribution-grid-snake.gif)
