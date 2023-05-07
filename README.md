@@ -1,6 +1,7 @@
 <img src="https://i.pinimg.com/originals/76/1e/b7/761eb728134243adecd752587e2a2dde.gif" width=1320 height=300>
  
- # 👋 Hi , I'm Siddhant Sahu<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2> <h1 align="center" > </h1>  
+ # 👋 Hi , I'm Siddhant Sahu<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2> 
+ 
 <p>  
 I'm a beginner software developer. I'm excited to be learning about programming and am eager to improve my skills.
 
@@ -13,7 +14,6 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 -🎨When I'm not coding, I enjoy ["reading books," "playing video games," "listening to music," etc.]. 
   
 -😊Thanks for visiting my profile and I look forward to connecting with you!
-
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhant660](https://github.com/siddhant660)
@@ -24,10 +24,11 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 
 <h3 align="left">Connect with me:<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2> <h1 align="center" ></h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/121472284/236687687-7da00c47-3b8f-4599-9fa5-d561e524b93c.png">
+
 
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant660" height="30" width="40" /></a>
+ <img align="right" src="https://user-images.githubusercontent.com/121472284/236687687-7da00c47-3b8f-4599-9fa5-d561e524b93c.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
