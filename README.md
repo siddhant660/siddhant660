@@ -44,7 +44,7 @@ I'm a beginner software developer. I'm excited to be learning about programming 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant660&show_icons=true&locale=en&layout=compact&bg_color=663399&title_color=fff&text_color=fff" alt="siddhant660" width="400" />
 
-<h3 align="left">snake contribution graph </h3>
+<h3 align="left">snake contribution graph  </h3>
 
 ![snake animation](https://github.com/siddhant660/siddhant660/blob/output/github-contribution-grid-snake.svg)
 
