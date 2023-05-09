@@ -5,6 +5,7 @@
 
 <p>  
 I'm a beginner software developer. I'm excited to be learning about programming and am eager to improve my skills.
+ 
 
 -👨‍💻Currently, I'm focusing on learning- "python," "django," and "vim". 
    
