@@ -1,9 +1,6 @@
  # 👋 Hi, I'm Siddhant Sahu
- <img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif" width=3000 height=500>
+ <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" width=3000 height=300>
 
-
-
- <img src="https://i.pinimg.com/originals/35/8a/87/358a871c9ec0d973b5618c6900d0897e.gif" align=right width=200 height=420>
 
 ```python
   
