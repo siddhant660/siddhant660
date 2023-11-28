@@ -1,7 +1,6 @@
  <h1 > Hi, I'm Siddhant Sahu </h1>
  <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" width=3000 height=300>
 
-
 ```python
   
 print(" Hi, I'm Siddhant Sahu")
