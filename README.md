@@ -14,14 +14,15 @@
 
 
 
-I'm a student with interests in Python and JavaScript, exploring different areas of computer science.
+#### I'm a student with interests in Python and JavaScript, exploring different areas of computer science.
 
- 🔭 I'm currently working on various coding projects.
- 🌱 I'm constantly learning and growing in different domains of computer science.
- 💬 Ask me about anything tech-related; I love to discuss and share knowledge.
- 🎧 Listening to music is my go-to relaxation method.
- 🚀 I enjoy exploring new things and pushing my boundaries.
- 
+#### I'm currently working on various coding projects.
+#### I'm constantly learning and growing in different domains of computer science.
+#### 💬 Ask me about anything tech-related; I love to discuss and share knowledge.
+#### 🎧 Listening to music is my go-to relaxation method.
+#### 🚀 I enjoy exploring new things and pushing my boundaries.
+
+ # -
  [![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/siddhant660/)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/siddhant660/)
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)](https://github.com/siddhant660/)
