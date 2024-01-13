@@ -5,14 +5,14 @@
 <!-- Add the image to the right side -->
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d9059de-ffc4-4479-9fcf-03972a53ab72/dacxj77-e12415a6-ab9a-45fc-8d3f-497fe1516a38.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkOTA1OWRlLWZmYzQtNDQ3OS05ZmNmLTAzOTcyYTUzYWI3MlwvZGFjeGo3Ny1lMTI0MTVhNi1hYjlhLTQ1ZmMtOGQzZi00OTdmZTE1MTZhMzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.REXVOgppOWOsPjFRZGSXgOyLBSU8XqO701rpKP7rWpI" align="right">
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39dea7b5-992e-4e91-84e7-722dcf7bcd18/dankk4a-89fe4990-69c3-4c60-bf04-ac84cba5ca9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZGVhN2I1LTk5MmUtNGU5MS04NGU3LTcyMmRjZjdiY2QxOFwvZGFua2s0YS04OWZlNDk5MC02OWMzLTRjNjAtYmYwNC1hYzg0Y2JhNWNhOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mUVspgDOwJUSQ_ZbadWLcEE545AzLwCHBCpcS69vnsE" >
-
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39dea7b5-992e-4e91-84e7-722dcf7bcd18/dankk4a-89fe4990-69c3-4c60-bf04-ac84cba5ca9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZGVhN2I1LTk5MmUtNGU5MS04NGU3LTcyMmRjZjdiY2QxOFwvZGFua2s0YS04OWZlNDk5MC02OWMzLTRjNjAtYmYwNC1hYzg0Y2JhNWNhOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mUVspgDOwJUSQ_ZbadWLcEE545AzLwCHBCpcS69vnsE" >                                    
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d9059de-ffc4-4479-9fcf-03972a53ab72/dacxj77-e12415a6-ab9a-45fc-8d3f-497fe1516a38.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkOTA1OWRlLWZmYzQtNDQ3OS05ZmNmLTAzOTcyYTUzYWI3MlwvZGFjeGo3Ny1lMTI0MTVhNi1hYjlhLTQ1ZmMtOGQzZi00OTdmZTE1MTZhMzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.REXVOgppOWOsPjFRZGSXgOyLBSU8XqO701rpKP7rWpI" align="left">
 
 
-[![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/siddhant660/)
-[![Python Badge](https://img.shields.io/badge/-Python-66ccff?style=flat&logo=Python&logoColor=white)](https://github.com/siddhant660/)
-[![Email Badge](https://img.shields.io/badge/Email-siddhantsahu9926%40gmail.com-66ccff)](mailto:siddhantsahu9926@gmail.com)
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39dea7b5-992e-4e91-84e7-722dcf7bcd18/dankk4a-89fe4990-69c3-4c60-bf04-ac84cba5ca9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZGVhN2I1LTk5MmUtNGU5MS04NGU3LTcyMmRjZjdiY2QxOFwvZGFua2s0YS04OWZlNDk5MC02OWMzLTRjNjAtYmYwNC1hYzg0Y2JhNWNhOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mUVspgDOwJUSQ_ZbadWLcEE545AzLwCHBCpcS69vnsE" width="800" height="10" align="center">
+
+
 
 I'm a student with interests in Python and JavaScript, exploring different areas of computer science.
 
