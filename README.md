@@ -27,7 +27,6 @@ I'm a student with interests in Python and JavaScript, exploring different areas
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d9059de-ffc4-4479-9fcf-03972a53ab72/dacxj77-e12415a6-ab9a-45fc-8d3f-497fe1516a38.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkOTA1OWRlLWZmYzQtNDQ3OS05ZmNmLTAzOTcyYTUzYWI3MlwvZGFjeGo3Ny1lMTI0MTVhNi1hYjlhLTQ1ZmMtOGQzZi00OTdmZTE1MTZhMzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.REXVOgppOWOsPjFRZGSXgOyLBSU8XqO701rpKP7rWpI" align="left">
 
-📧 Email: [siddhantsahu9926@gmail.com](mailto:siddhantsahu9926@gmail.com)
 
 ### 🌐 Connect with Me:
 
@@ -36,4 +35,5 @@ I'm a student with interests in Python and JavaScript, exploring different areas
 ## 😊 Thanks for visiting my profile!
 I'm excited about the endless possibilities in the tech world. Let's connect and build something amazing together!
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcak6qn-e9c4fc06-841b-491d-80f3-c65f00cf0118.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNhazZxbi1lOWM0ZmMwNi04NDFiLTQ5MWQtODBmMy1jNjVmMDBjZjAxMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IAm0WEJBELyGOPG9bsRwTRfYIC--FrF-a-co0xSCTvQ">
 </div>
