@@ -18,11 +18,11 @@ I'm a student with interests in Python and JavaScript, exploring different areas
 
 ### 🛠 My Skills:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant660)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant660)](https://github.com/siddhant660/github-readme-stats)
 
 ### 🏆 GitHub Stats:
 
-[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant660&show_icons=true&theme=vue)](https://github.com/siddhant660)
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant660&show_icons=true&theme=66ccff)](https://github.com/siddhant660)
 
 ### 💼 Contact Information:
 
