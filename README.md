@@ -1,26 +1,38 @@
- <h1 > Hi, I'm Siddhant Sahu </h1>
- <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" width=3000 height=300>
+<div align="center">
+
+[![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/siddhant660)
+[![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Hello+my+name+is+Siddhant+!%22)](https://github.com/zybqw/zybqw)
 
 
-```python
-  
-print(" Hi, I'm Siddhant Sahu")
+[![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/siddhant660/)
+[![Python Badge](https://img.shields.io/badge/-Python-66ccff?style=flat&logo=Python&logoColor=white)](https://github.com/siddhant660/)
+[![Email Badge](https://img.shields.io/badge/Email-siddhantsahu9926%40gmail.com-66ccff)](mailto:siddhantsahu9926@gmail.com)
 
-currentFocus = ["Python", JavaScript"]
-areasOfInterest = "Different areas of computer science"
+I'm a student with interests in Python and JavaScript, exploring different areas of computer science.
 
-hobbies = ["Listening to music", "Exploring different things"]
+ 🔭 I'm currently working on various coding projects.
+ 🌱 I'm constantly learning and growing in different domains of computer science.
+ 💬 Ask me about anything tech-related; I love to discuss and share knowledge.
+ 🎧 Listening to music is my go-to relaxation method.
+ 🚀 I enjoy exploring new things and pushing my boundaries.
 
-githubLink = "https://github.com/siddhant660"
+### 🛠 My Skills:
 
-email = "siddhantsahu9926@gmail.com"
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant660)](https://github.com/anuraghazra/github-readme-stats)
 
-print("- I'm a student")
-print(f"-  I'm interested in exploring {the computer world}")
-print(f"-  When I'm not coding, I enjoy {hobbies[0].Listning_music}, {hobbies[1].Exploring_new_things}")
-print(f"- All of my projects are available at {https://github.com/siddhant660}")
-print(f"-  How to reach me: {Siddhantsahu9926@gmail.com}")
+### 🏆 GitHub Stats:
 
-# Thank you message
-print("😊 Thanks for visiting my profile, and I look forward to connecting with you!")
-```
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant660&show_icons=true&theme=vue)](https://github.com/siddhant660)
+
+### 💼 Contact Information:
+
+📧 Email: [siddhantsahu9926@gmail.com](mailto:siddhantsahu9926@gmail.com)
+
+### 🌐 Connect with Me:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Siddhant%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddhant-sahu/)
+
+## 😊 Thanks for visiting my profile!
+I'm excited about the endless possibilities in the tech world. Let's connect and build something amazing together!
+
+</div>
