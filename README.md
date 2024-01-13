@@ -1,10 +1,5 @@
 <div align="center">
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39dea7b5-992e-4e91-84e7-722dcf7bcd18/dankk4a-89fe4990-69c3-4c60-bf04-ac84cba5ca9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZGVhN2I1LTk5MmUtNGU5MS04NGU3LTcyMmRjZjdiY2QxOFwvZGFua2s0YS04OWZlNDk5MC02OWMzLTRjNjAtYmYwNC1hYzg0Y2JhNWNhOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mUVspgDOwJUSQ_ZbadWLcEE545AzLwCHBCpcS69vnsE" align="left" width="10" height="1000">
-
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39dea7b5-992e-4e91-84e7-722dcf7bcd18/dankk4a-89fe4990-69c3-4c60-bf04-ac84cba5ca9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZGVhN2I1LTk5MmUtNGU5MS04NGU3LTcyMmRjZjdiY2QxOFwvZGFua2s0YS04OWZlNDk5MC02OWMzLTRjNjAtYmYwNC1hYzg0Y2JhNWNhOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mUVspgDOwJUSQ_ZbadWLcEE545AzLwCHBCpcS69vnsE" align="right" width="10" height="1000">
-
-
 [![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/siddhant660)
 [![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Hello+my+name+is+Siddhant+!%22)](https://github.com/zybqw/zybqw)
 <!-- Add the image to the right side -->
