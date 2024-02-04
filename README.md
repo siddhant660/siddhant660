@@ -1,6 +1,6 @@
 <div align="center">
 
- 
+
 [![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/siddhant660)
 [![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Hello+my+name+is+Siddhant+!%22)](https://github.com/zybqw/zybqw)
 <!-- Add the image to the right side -->
