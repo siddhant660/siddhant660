@@ -15,9 +15,9 @@
 
 
 
-#### I'm a student with interests in Python and JavaScript, exploring different areas of computer science.
+#### I'm a student with an interest in different areas of computer science.
 
-#### I'm currently working on various coding projects.
+#### I'm currently learning machine learning.
 #### I'm constantly learning and growing in different domains of computer science.
 #### 💬 Ask me about anything tech-related; I love to discuss and share knowledge.
 #### 🎧 Listening to music is my go-to relaxation method.
