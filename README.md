@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/33/db/fb/33dbfb95f2dcdac44afc4bfe690c6972.jpg" width="600" style="border-radius: 20px; margin: 20px 0;" />
+  <img src="https://i.pinimg.com/1200x/33/db/fb/33dbfb95f2dcdac44afc4bfe690c6972.jpg" height="400px" />
 </div>
 
 ---
